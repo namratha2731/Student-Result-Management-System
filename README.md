@@ -81,5 +81,4 @@ Student-Result-Management-System/
 ---
 
 *For customization and debugging, refer to the individual Python script files for further implementation details.*
-```
 
